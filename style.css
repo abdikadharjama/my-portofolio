@@ -80,3 +80,7 @@ body {
 .hero--container > div > h3 {
     font-size: 1.5rem;
 }
+footer{
+    display: block;
+    background-color: blue;
+}
